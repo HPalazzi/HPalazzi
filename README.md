@@ -1,4 +1,4 @@
-## Olá! Tudo bem? Meu nome é Heitor Palazzi, e esses são meus projetos!
+## Beleza? Meu nome é Heitor Palazzi, e esses são meus projetos!
 ### Aqui vai um breve resumo sobre mim!
 
 - Atualmente trabalho como comprador, no setor comercial da <a href = "https://www.linkedin.com/company/tenneco/mycompany/verification/">Tenneco</a> 🏆
